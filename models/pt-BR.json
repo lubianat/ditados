@@ -1,0 +1,45 @@
+{
+  "interactionModel": {
+   "languageModel": {
+    "invocationName": "ditados populares",
+    "intents": [
+     {
+      "name": "AMAZON.CancelIntent",
+      "samples": []
+     },
+     {
+      "name": "AMAZON.HelpIntent",
+      "samples": []
+     },
+     {
+      "name": "AMAZON.StopIntent",
+      "samples": []
+     },
+     {
+      "name": "GetNewFactIntent",
+      "samples": [
+       "um ditado popular",
+       "um ditado popular ",
+       "me conta um ditado popular ",
+       "fale um ditado popular ",
+       "me dê um ditado popular ",
+       "me da um ditado popular ",
+       "me conta um ditado popular",
+       "me conta um ditado popular ",
+       "me conta um ditado popular ",
+       "me conta um ditado popular interessante",
+       "me dê informações ",
+       "me fale coisas interessantes ",
+       "me conta algo interessante",
+       "mais um",
+       "mais uma",
+       "me da mais um ditado popular",
+       "quero ouvir um ditado popular "
+      ],
+      "slots": []
+     }
+    ]
+   }
+  }
+ }
+ 

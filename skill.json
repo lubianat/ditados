@@ -1,0 +1,45 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:792512795833:function:ask-custom-fact-default"
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "locales": {
+        "pt-BR": {}
+      },
+      "allowsPurchases": false,
+      "usesPersonalInfo": false,
+      "isChildDirected": false,
+      "isExportCompliant": true,
+      "containsAds": false
+    },
+    "publishingInformation": {
+      "locales": {
+        "pt-BR": {
+          "name": "Ditados Populares",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/f831/ee3005a22ea440389d9790e55e2c7495/APP_ICON?versionId=Mob9N1cS9HuPepf9bwIFXX2zJzIasKV1&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20190429T192822Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=AKIAJFEYRBGIHK2BBYKA%2F20190429%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=6e1815b80b05983750382a572e702ae5d79975e0b3cd2c65c54766765a4c208a",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/1291/dd58a6d30ae84599bfe162702fed5ad9/APP_ICON_LARGE?versionId=VivjjLnUeHTZkoGRuTRnXZoL868leWhE&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20190429T192822Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=AKIAJFEYRBGIHK2BBYKA%2F20190429%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=c55b216650f0e2497cde7cb6179d1b4d5091acb93be2be17e8ad5d000d489654",
+          "summary": "Ditados Populares do nosso Brasil",
+          "description": "Abra essa skill para ouvir ditados populares comuns da língua portuguesa. Um ditado novo cada vez!.",
+          "examplePhrases": [
+            "Alexa abra ditados populares"
+          ],
+          "keywords": [
+            "ditados",
+            "trivia",
+            "cultura",
+            "popular"
+          ]
+        }
+      },
+      "isAvailableWorldwide": true,
+      "category": "KNOWLEDGE_AND_TRIVIA",
+      "distributionCountries": []
+    }
+  }
+}
